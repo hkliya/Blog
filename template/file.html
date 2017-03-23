@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block title %} {{ site.configs.title }} - 相册 - {{ file.title }}{% endblock %}
+
+{% set next_one = get_connected_one(file, True, '>') %}
+{% set pre_one = get_connected_one(file, True, '<') %}
+
+{% block content %}
+<div class="mid-col">
+    <div class="mid-col-container">
+		{{ bread_nav(file.path, '/folder/') }}
+		<div class="container80">
+			<div id="image">
+				<div class="info">
+					<!--<span class="date">{{ file.date | date('%Y-%m-%d %H:%M') }}</span>-->
+				</div>
+				<img src="{{ file.url }}" />
+				<div class="connected_images">
+					{% if pre_one %}
+						<a href="/file/{{ pre_one.path }}" class="pre" title="点击跳到上一张">&nbsp;</a>
+					{% else %}
+						<a href="#pre_one" class="pre" id="pre_one" title="没有上一张了">&nbsp;</a>
+					{% endif %}
+					{% if next_one %}
+						<a href="/file/{{ next_one.path }}" class="next" title="点击跳到下一张">&nbsp;</a>
+					{% else %}
+						<a href="#next_one" class="next" id="next_one" title="没有下一张了">&nbsp;</a>
+					{% endif %}
+				</div>
+			</div>
+			{% include 'include/comments.html' %}
+		</div>
+    </div>
+    {% include 'include/footer.html' %}
+</div>
+{% endblock %}

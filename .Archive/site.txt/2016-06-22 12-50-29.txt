@@ -1,0 +1,42 @@
+---
+title: Seaborn Lee
+subtitle: 「深圳湾」Co-founder & CTO，前 ThoughtWorks 咨询师，全栈工程师，技术教练。敏捷社区推动者，曾以组织者和讲师身份参与过Agile tour，Scrum Gathering，精创周末等活动。
+软件匠艺推动者，热爱引导Code Retreat，Coding Dojo等活动。
+
+工作之余喜欢阅读、写作、运动、演讲、组织社区活动、参与开源
+keywords: 前ThoughtWorks程序员,bjdp,ThoughtWorks,读书笔记,个人成长,敏捷个人,敏捷,scrum gathering
+avatar: /_image/avatar.jpg
+cover: /_image/cover.jpg
+posts_per_page: 5
+post_content_type: markdown
+post_paragraph_indent: no
+file_path: 我的相册
+show_toc: yes
+mathjax: no
+disqus:
+duoshuo: hkliya
+template_priority: auto
+template_inherit: yes
+template_clone_allowed: yes
+autoreload: auto
+post_url_format: normal
+scripts_per_page: |
+  <script type="text/javascript">
+  var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcb4739c4b63720df3c49c8a235b143c3' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+scripts_for_doc:
+domain: www.seabornlee.cn
+domains:
+- seabornlee.cn
+dns:
+auto_image: yes
+comment: yes
+sync_by_3rd: no
+sync_by_3rd_public: no
+outside_links_allowed: yes
+score_degree:
+hidden_urls:
+users:
+client_date: Sat Aug 22 2015 08:25:56 GMT+0800 (CST)
+---
