@@ -1,10 +1,7 @@
----
-date: 2013-05-05 11:32
-status: public
-tags: 'code, tdd, IntelliJ IDEA'
-title: 'code kata - Leap year（闰年）'
-url: /code-kata-leap-year
----
+Date: 2013-05-05 11:32
+Title: code kata - leap year（闰年）
+Url: /code-kata-leap-year
+Tags: code, tdd, IntelliJ IDEA
 
 #### 活动感想
 虽然接触TDD已有一段时间，但实践的并不多，所以理解也很浅。在此次活动中，很多同学是第一次接触TDD，也犯了普遍会犯的错误，比如先把所有测试代码全部写完才开始写实现代码，大粒度的测试和忘记重构等。网上也有很多关于TDD的争论，比如：

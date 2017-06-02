@@ -1,3 +1,4 @@
+
 Title: 纸婚，写给老婆的信
 Date: 2012-12-19 07:23:03
 Url: /2012/12/19/to-wife-on-paper-wedding-day/
