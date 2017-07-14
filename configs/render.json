@@ -1,0 +1,18 @@
+{
+    "inject_template":"<script type='text\/javascript'>\n      var _vds = _vds || [];\n      window._vds = _vds;\n      (function(){\n        _vds.push(['setAccountId', '921bf5a1fa04781c']);\n        (function() {\n          var vds = document.createElement('script');\n          vds.type='text\/javascript';\n          vds.async = true;\n          vds.src = ('https:' == document.location.protocol ? 'https:\/\/' : 'http:\/\/') + 'dn-growing.qbox.me\/vds.js';\n          var s = document.getElementsByTagName('script')[0];\n          s.parentNode.insertBefore(vds, s);\n        })();\n      })();\n  <\/script>",
+    "third_party_comments_script":"<!--\u9ad8\u901f\u7248-->\n<div id=\"SOHUCS\" sid=\"\u8bf7\u5c06\u6b64\u5904\u66ff\u6362\u4e3a\u914d\u7f6eSourceID\u7684\u8bed\u53e5\"><\/div>\n<script charset=\"utf-8\" type=\"text\/javascript\" src=\"https:\/\/changyan.sohu.com\/upload\/changyan.js\" ><\/script>\n<script type=\"text\/javascript\">\nwindow.changyan.api.config({\nappid: 'cyt6enGYP',\nconf: 'prod_bf4ef539816bb0470afa75fb75c10938'\n});\n<\/script>",
+    "cache_strategy":"fast",
+    "debug_template":false,
+    "theme":"blog\/casper",
+    "gravatar":true,
+    "force_ssl":false,
+    "routes":[
+        {
+            "route_root":"\u6211\u7684\u76f8\u518c",
+            "route_url":"album",
+            "route_theme":"album\/albumlog"
+        }
+    ],
+    "auto_reload":false,
+    "hide_comments":false
+}

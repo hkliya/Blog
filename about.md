@@ -1,50 +1,61 @@
 ---
 date: 2013-07-25 14:28
-status: public
+status: smart_page
 title: 关于我
 toc: false
 ---
+### 译作
+[《七周又七语言》](https://book.douban.com/subject/26921107/)
 
-<div class="github-card" data-github="hkliya" data-width="400" data-height="150" data-theme="default"></div>
-<script src="http://lab.lepture.com/github-cards/widget.js"></script>
 
-<script data-codementor="seabornlee" data-style="badge" data-theme="light" src="https://cdn.codementor.io/d/badge.js"></script>
----
+### 社区贡献者
+**中国软件匠艺小组**
+发起人，组织了 10 几场线上直播
 
-### 我参与组织和分享的活动有：
->__极思周末深圳站__
-    《精益创业&敏捷-迭代演进的实验式思维让社会创新落地》讲师
+**极思周末深圳站**
+《精益创业&敏捷-迭代演进的实验式思维让社会创新落地》讲师
 
->__精创周末2013深圳站__
-    组织者，《Coding Style》讲师
+**精创周末2013深圳站**
+组织者，《Coding Style》讲师
 
->__Scrum Gathering 2014__
-    开放空间制作人，《Coding Style》讲师
+**Scrum Gathering 2014**
+开放空间出品人，《Coding Style》讲师
 
->__APAC Day Day of CodeRetreat 2014 深圳站__
-	 组织者，引导者
+**APAC Day Day of CodeRetreat 2014 深圳站**
+组织者，引导者
 	 
->__Global Day of CodeRetreat 2013/2014/2015 深圳站__
-	 组织者，引导者
+**Global Day of CodeRetreat 2013/2014/2015 深圳站**
+组织者，引导者
 
->__Agiletour 广州站__ 
-	 2013:《来自一线的Android敏捷实践》讲师
-	 2014：《Android应用持续集成与自动化测试》
+**Agiletour 2015 珠海站**
+《敏捷文化》
 
->__Agiletour 2013深圳站__ 
-    发起人，总负责人。Coding Dojo引导者
+**Agiletour 2015 深圳站**
+《敏捷文化》
 
->__Scrum Gathering 2013 北京站__
-    软件匠艺分会场联合制作人，志愿者团队负责人
+**Agiletour 2014 广州站**
+《Android应用持续集成与自动化测试》
 
->__Agiletour 2012北京站__
-    Track主持人，志愿者团队负责人，物料采购
+**Agiletour 2013 广州站**
+《来自一线的Android敏捷实践》讲师
 
----    
+**Agiletour 2013深圳站**
+发起人，总负责人。Coding Dojo引导者
+
+**Scrum Gathering 2013 北京站**
+软件匠艺分会场联合制作人，志愿者团队负责人
+
+**Agiletour 2012北京站**
+Track主持人，志愿者团队负责人，物料采购
+
 
 ### 我最喜欢的社区
->[Shenzhen-English-Mandarin-Language-Exchange-Group](http://www.meetup.com/Shenzhen-English-Mandarin-Language-Exchange-Group/events/181421342/)
+* [中国软件匠艺小组](https://codingstyle.cn)
+* [Beijing Software Craftsmanship Meetup Group](http://www.meetup.com/BeijingSoftwareCraftsmanship/)
+* [Beijing Design Patterns Study Group](http://www.bjdp.org/)
 
->[Beijing Software Craftsmanship Meetup Group](http://www.meetup.com/BeijingSoftwareCraftsmanship/)
 
->[Beijing Design Patterns Study Group](http://www.bjdp.org/)
+### 联系我
+* Email：seabornlee.cn@gmail.com
+* Wechat：seabornlee
+* 公众号：SeabornLee
